@@ -1,0 +1,13 @@
+.num {
+    font-weight: bold;
+    color: red;
+    background-color: red;
+}
+
+.non {
+    display: none;
+}
+
+.inl {
+    display: inline-block;
+}
